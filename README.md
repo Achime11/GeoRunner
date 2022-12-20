@@ -1,2 +1,2 @@
 # GeoRunner
- A ball game
+ A ball game.
